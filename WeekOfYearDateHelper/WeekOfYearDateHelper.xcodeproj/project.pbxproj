@@ -1,0 +1,251 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A72765CE1BEF437800140BE3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A72765CD1BEF437800140BE3 /* main.m */; };
+		A7A4D7DB1BEF455D00C44DC0 /* WeekOfYearDateHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = A7A4D7DA1BEF455D00C44DC0 /* WeekOfYearDateHelper.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A72765C81BEF437800140BE3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A72765CA1BEF437800140BE3 /* WeekOfYearDateHelper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = WeekOfYearDateHelper; sourceTree = BUILT_PRODUCTS_DIR; };
+		A72765CD1BEF437800140BE3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A7A4D7D91BEF455D00C44DC0 /* WeekOfYearDateHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeekOfYearDateHelper.h; sourceTree = SOURCE_ROOT; };
+		A7A4D7DA1BEF455D00C44DC0 /* WeekOfYearDateHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeekOfYearDateHelper.m; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A72765C71BEF437800140BE3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A72765C11BEF437800140BE3 = {
+			isa = PBXGroup;
+			children = (
+				A72765CC1BEF437800140BE3 /* WeekOfYearDateHelper */,
+				A72765CB1BEF437800140BE3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A72765CB1BEF437800140BE3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A72765CA1BEF437800140BE3 /* WeekOfYearDateHelper */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A72765CC1BEF437800140BE3 /* WeekOfYearDateHelper */ = {
+			isa = PBXGroup;
+			children = (
+				A7A4D7D91BEF455D00C44DC0 /* WeekOfYearDateHelper.h */,
+				A7A4D7DA1BEF455D00C44DC0 /* WeekOfYearDateHelper.m */,
+				A72765CD1BEF437800140BE3 /* main.m */,
+			);
+			path = WeekOfYearDateHelper;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A72765C91BEF437800140BE3 /* WeekOfYearDateHelper */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A72765D11BEF437800140BE3 /* Build configuration list for PBXNativeTarget "WeekOfYearDateHelper" */;
+			buildPhases = (
+				A72765C61BEF437800140BE3 /* Sources */,
+				A72765C71BEF437800140BE3 /* Frameworks */,
+				A72765C81BEF437800140BE3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WeekOfYearDateHelper;
+			productName = WeekOfYearDateHelper;
+			productReference = A72765CA1BEF437800140BE3 /* WeekOfYearDateHelper */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A72765C21BEF437800140BE3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = crazysun;
+				TargetAttributes = {
+					A72765C91BEF437800140BE3 = {
+						CreatedOnToolsVersion = 7.1;
+					};
+				};
+			};
+			buildConfigurationList = A72765C51BEF437800140BE3 /* Build configuration list for PBXProject "WeekOfYearDateHelper" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A72765C11BEF437800140BE3;
+			productRefGroup = A72765CB1BEF437800140BE3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A72765C91BEF437800140BE3 /* WeekOfYearDateHelper */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A72765C61BEF437800140BE3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A72765CE1BEF437800140BE3 /* main.m in Sources */,
+				A7A4D7DB1BEF455D00C44DC0 /* WeekOfYearDateHelper.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A72765CF1BEF437800140BE3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		A72765D01BEF437800140BE3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A72765D21BEF437800140BE3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A72765D31BEF437800140BE3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A72765C51BEF437800140BE3 /* Build configuration list for PBXProject "WeekOfYearDateHelper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A72765CF1BEF437800140BE3 /* Debug */,
+				A72765D01BEF437800140BE3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A72765D11BEF437800140BE3 /* Build configuration list for PBXNativeTarget "WeekOfYearDateHelper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A72765D21BEF437800140BE3 /* Debug */,
+				A72765D31BEF437800140BE3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A72765C21BEF437800140BE3 /* Project object */;
+}
