@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS&#x5f00;&#x53d1;UI&#x7bc7;-&#x5728;UITableView&#x7684;&#x5e94;&#x7528;&#x4e2d;&#x4f7f;&#x7528;&#x52a8;&#x6001;&#x5355;&#x5143;&#x683c;&#x6765;&#x5b8c;&#x6210;app&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;&#x754c;&#x9762;&#x7684;&#x642d;&#x5efa;/AppCell.m"
+            timestampString = "469281573.356328"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-setApp:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS&#x5f00;&#x53d1;UI&#x7bc7;-&#x5728;UITableView&#x7684;&#x5e94;&#x7528;&#x4e2d;&#x4f7f;&#x7528;&#x52a8;&#x6001;&#x5355;&#x5143;&#x683c;&#x6765;&#x5b8c;&#x6210;app&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;&#x754c;&#x9762;&#x7684;&#x642d;&#x5efa;/ViewController.m"
+            timestampString = "469282228.902678"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "-btnDidClick:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS&#x5f00;&#x53d1;UI&#x7bc7;-&#x5728;UITableView&#x7684;&#x5e94;&#x7528;&#x4e2d;&#x4f7f;&#x7528;&#x52a8;&#x6001;&#x5355;&#x5143;&#x683c;&#x6765;&#x5b8c;&#x6210;app&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;&#x754c;&#x9762;&#x7684;&#x642d;&#x5efa;/AppCell.m"
+            timestampString = "469282238.960565"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "-initWithStyle:reuseIdentifier:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
